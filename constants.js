@@ -5,12 +5,12 @@ export const numberInformation = [
     riddles: [
       "How many sides does a circle have?",
       "What is the first positive odd number?",
-      "How many hearts does an octopus have?",
+      // "How many hearts does an octopus have?",
       "How many semi-breve notes can fit in a 4/4 time signature bar in music?",
       "What is the atomic number of hydrogen?",
-      "How many sovereign states are members of the United Nations?",
-      "In a binary system, how many digits can represent any number?",
-      "How many solutions does the equation x + 0 = x have?",
+      // "How many sovereign states are members of the United Nations?",
+      // "In a binary system, how many digits can represent any number?",
+      // "How many solutions does the equation x + 0 = x have?",
     ],
   },
   {
@@ -22,9 +22,9 @@ export const numberInformation = [
       "How many ears does a human typically have?",
       "How many seasons are there in Indonesia?",
       "How many sides does a coin usually have?",
-      "What is the second digit in the number pi (π)?",
+      // "What is the second digit in the number pi (π)?",
       "How many lungs does a typical human have?",
-      "How many times does the hour hand of a clock rotate in a 24-hour period?",
+      // "How many times does the hour hand of a clock rotate in a 24-hour period?",
     ],
   },
   {
